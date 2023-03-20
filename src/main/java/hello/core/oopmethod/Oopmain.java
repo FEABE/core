@@ -9,13 +9,11 @@ public class Oopmain {
         studentLee.address="부산";
 
         studentLee.showStudentInfo();
-<<<<<<< HEAD
+
 
         Order gaRa = new Order(123,"01048000336","부산광역시 해운대구","20231022","13:00:000",40000,052147);
         System.out.println(gaRa.showOrderInfo());
 
 
-=======
->>>>>>> d3bb48f208261b16479de31cfd4dd78ecd6dd692
     }
 }
